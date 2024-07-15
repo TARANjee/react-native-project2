@@ -16,6 +16,9 @@ export default class FlatCards extends Component {
                     <View style={[styles.box, styles.cardThree]}>
                         <Text>Blue</Text>
                     </View>
+                    <View style={[styles.box, styles.cardThree]}>
+                        <Text>Blue</Text>
+                    </View>
                     
                 </View>
             </View>
